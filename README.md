@@ -59,7 +59,7 @@
 
 <br>
 
-<img width="593" alt="James Holden first ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a0e9bf33-4860-4dbf-bd95-78abbf24e23e">
+<img width="593" alt="James Holden first ticket" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305562459-a0e9bf33-4860-4dbf-bd95-78abbf24e23e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160116Z&X-Amz-Expires=300&X-Amz-Signature=de112591bb0626a3489b0cf98bcd57fb128e87c9c2043776b581270491be230d&X-Amz-SignedHeaders=host">
 
 <br>
 <br>
@@ -75,14 +75,14 @@
 - Once verification is done, modify James's user profile and assign the appropriate administrative privileges.
 - Ensure that his machine allows him remote access
 
-<img width="300" alt="rdp" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/84e3c864-1470-4f0c-af22-3135d8694dee">
+<img width="300" alt="rdp" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305562790-84e3c864-1470-4f0c-af22-3135d8694dee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160150Z&X-Amz-Expires=300&X-Amz-Signature=0ac53a7ce7dd4e4f8920c7466a804556ae7fe340e06b66c6ef5664acf020b36f&X-Amz-SignedHeaders=host">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
 
 <p><strong>Configure specific permissions based on James's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
 
-<img width="300" alt="3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5a6d9283-55be-4dcd-b231-00f24f59a361">
+<img width="300" alt="3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305563646-5a6d9283-55be-4dcd-b231-00f24f59a361.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160231Z&X-Amz-Expires=300&X-Amz-Signature=3dce4a829b7c56a3a6a3f6cd01246480cbeef5961ac44f66fc308e1c6f64b23c&X-Amz-SignedHeaders=host">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -97,7 +97,7 @@
 - Document the completion of the admin rights activation in osTicket.
 -Close the ticket, indicating that the task has been completed, and provide documentation for future audits or inquiries.
 
-<img width="592" alt="Done w james " src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ceafdb4f-46bf-4e2a-abab-3368e586fdb6">
+<img width="592" alt="Done w james " src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305564961-ceafdb4f-46bf-4e2a-abab-3368e586fdb6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160307Z&X-Amz-Expires=300&X-Amz-Signature=e8a20482e5b57c9cc491f8828fb4c928c8405586921074894c2ab10fcf02a4e7&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
@@ -116,7 +116,7 @@
 
 <br>
 
-<img width="593" alt="Camina ticket" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/da8ff8c8-c719-4948-97bf-d0c98f192d32">
+<img width="593" alt="Camina ticket" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305565866-da8ff8c8-c719-4948-97bf-d0c98f192d32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160356Z&X-Amz-Expires=300&X-Amz-Signature=4f5e6f6e49129e83cbd72dd7080b166e68968409e61b4b01ecc459b9a502175d&X-Amz-SignedHeaders=host">
 
 <br>
 <br>
@@ -128,7 +128,7 @@
 - Engage in a threaded discussion to gather more information about the specific performance issues Camina is encountering.
 - Request details such as recent software installations, background processes, and any error messages she might have encountered
 
-<img width="592" alt="reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/c4f43105-eee5-4424-8c15-bd366b31b75f">
+<img width="592" alt="reply" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305566060-c4f43105-eee5-4424-8c15-bd366b31b75f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160438Z&X-Amz-Expires=300&X-Amz-Signature=588c8f7d832183a19a23733b6283d7ae286d47398c878e42f06149468fba48bc&X-Amz-SignedHeaders=host">
 
 
 <h5> Remote Diagnosis:</h5>
@@ -143,7 +143,7 @@
 
 - Go to add or remove programs and delete any unnecessary applications
 
-<img width="400" alt="add or remove" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/f01f5105-360a-4262-9481-3b7fff5b7a2f">
+<img width="400" alt="add or remove" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305566465-f01f5105-360a-4262-9481-3b7fff5b7a2f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160523Z&X-Amz-Expires=300&X-Amz-Signature=5b354a321797cecf3dd06f59c2cbef83500ec0e566ae723864b1641dbbd6e62d&X-Amz-SignedHeaders=host">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -153,7 +153,7 @@
 
 - Empty the recycling bin to free up some disk space
 
-<img width="500" alt="recycle" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/0af4e499-0f29-4479-a88d-f12ceeda5867">
+<img width="500" alt="recycle" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305567438-0af4e499-0f29-4479-a88d-f12ceeda5867.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160558Z&X-Amz-Expires=300&X-Amz-Signature=93d1db40060a3f2dbb00a7b6f37600230e2feb72588887e0ec66238e684073e2&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
@@ -161,7 +161,7 @@
 
 <p><strong>Open the Disk Cleanup application and perform a cleanup.</strong></p>
 
-<img width="500" alt="cleanup" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7397a276-11ec-44ae-be1e-fcf6de194f2b">
+<img width="500" alt="cleanup" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305568228-7397a276-11ec-44ae-be1e-fcf6de194f2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160619Z&X-Amz-Expires=300&X-Amz-Signature=7051b267574742359510454a79389b1f72813257f243be9dc2af1b0f2e657b1e&X-Amz-SignedHeaders=host">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -170,7 +170,7 @@
 
 - After performing the tasks, diagnose the performance of the workstation 
 
-<img width="500" alt="on or off" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/6c301535-1b34-4c9b-a6e3-20d10207331a">
+<img width="500" alt="on or off" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305568455-6c301535-1b34-4c9b-a6e3-20d10207331a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160640Z&X-Amz-Expires=300&X-Amz-Signature=77512cbd6e6272cae90c1c68645709fe2ad9fa4ff5287688bcfd6d92a929b24e&X-Amz-SignedHeaders=host">
 
 
 <h5>Documentation & Closure:</h5>
@@ -179,7 +179,7 @@
 - Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
 - Close the ticket within osTicket when Camina confirms the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
 
-<img width="591" alt="camina closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/a43fa5ab-fb7a-4f1e-925c-0a750f806f79">
+<img width="591" alt="camina closed" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305568784-a43fa5ab-fb7a-4f1e-925c-0a750f806f79.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160712Z&X-Amz-Expires=300&X-Amz-Signature=cd658d56919e8abd09ab6b1c502e2ab930f094e330a355540a02e481fb570161&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
@@ -198,7 +198,7 @@
 
 <br>
 
-<img width="593" alt="Screenshot 2024-02-16 094853" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/55359757-dda2-4507-9ed7-ee0aed93258a">
+<img width="593" alt="Screenshot 2024-02-16 094853" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305569270-55359757-dda2-4507-9ed7-ee0aed93258a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160802Z&X-Amz-Expires=300&X-Amz-Signature=471c8b291b15b3e5ddcfa06373e7dbeefa9f07de6d8d6d9fa177a75a7f6b7d08&X-Amz-SignedHeaders=host">
 
 
 <br>
@@ -210,7 +210,7 @@
 
 - Engage in a threaded discussion within osTicket to gather more information about the issue.
 
-<img width="590" alt="alex k reply" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/cd96aaee-84c5-4b0f-a963-8e9275cc6944">
+<img width="590" alt="alex k reply" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305569364-cd96aaee-84c5-4b0f-a963-8e9275cc6944.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160820Z&X-Amz-Expires=300&X-Amz-Signature=13ad3b931b86c2f650c77073231090c4705993b69e05c6997c027d0988beba2c&X-Amz-SignedHeaders=host">
 
 
 <h5> Remote Diagnosis:</h5>
@@ -220,7 +220,7 @@
 
 <br>
 
-<img width="350" alt="devmgmt" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/02b38f22-3489-44cd-a912-4d1728676ce6">
+<img width="350" alt="devmgmt" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305569502-02b38f22-3489-44cd-a912-4d1728676ce6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160901Z&X-Amz-Expires=300&X-Amz-Signature=2f7af467c224ee4f0f33ba2cb7fbe2aaa71ef1d367ec387ce94c925f52d2df89&X-Amz-SignedHeaders=host">
 
 
 <h3> Specific Problem Identified:</h3>
@@ -232,7 +232,7 @@
 
 - Inform Alex through osTicket that the initial assessment indicates a potential driver-related issue with the camera after the Windows 11 upgrade
 
-<img width="592" alt="llll" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/00926f92-e76d-43c2-ace9-1ca45090e7a6">
+<img width="592" alt="llll" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305570529-00926f92-e76d-43c2-ace9-1ca45090e7a6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T160933Z&X-Amz-Expires=300&X-Amz-Signature=de3a43428c8e5e5ef44e53c3a228074e29564d0dd65680bbf1b41036734e5f6f&X-Amz-SignedHeaders=host">
 
 
 
@@ -241,7 +241,7 @@
 - Download the camera drivers from the manufacturers website and install the drivers manually
 - Reboot the system after making the changes to ensure proper implementation.
 
-<img width="592" alt="bigboi" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/fe5a3910-a379-4ea5-9c23-93f661e18789">
+<img width="592" alt="bigboi" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305571768-fe5a3910-a379-4ea5-9c23-93f661e18789.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161046Z&X-Amz-Expires=300&X-Amz-Signature=a0c8bf17c99dfcba9d458680b7811b550f0b361223f3bbcb393110a2eff18400&X-Amz-SignedHeaders=host">
 
 
 <h5>Documentation & Closure:</h5>
@@ -251,7 +251,7 @@
 - Document the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
 - Close the ticket within osTicket when Alex confirms the satisfactory resolution of the laptop camera issue
 
-<img width="592" alt="closed" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/36db4069-fbed-4628-988a-066745fc7115">
+<img width="592" alt="closed" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305571201-36db4069-fbed-4628-988a-066745fc7115.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161123Z&X-Amz-Expires=300&X-Amz-Signature=477fe16f1042142932f590a1de76c4b0c4b818684bf1ba2fa42afd5117503d24&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
@@ -270,7 +270,7 @@
 
 <br>
 
-<img width="587" alt="AMOS" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/95197f73-b04f-4690-9b39-40fbdcf0f4c1">
+<img width="587" alt="AMOS" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305571952-95197f73-b04f-4690-9b39-40fbdcf0f4c1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161140Z&X-Amz-Expires=300&X-Amz-Signature=da50c24f37983bfee1cd69ebd56aa24ec39ac18d903dfa126c25057274d90889&X-Amz-SignedHeaders=host">
 
 
 
@@ -283,7 +283,7 @@
 
 - Initiate a detailed conversation with Amos through osTicket, asking for specifics about the devices he uses, the email client or service, and any error messages he has encountered.
 
-<img width="590" alt="amos2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/452bf839-6c6c-4c00-87ff-999229276d30">
+<img width="590" alt="amos2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305572025-452bf839-6c6c-4c00-87ff-999229276d30.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161215Z&X-Amz-Expires=300&X-Amz-Signature=9b56909b29d231e323c41eb7ce9686bd33d19ab992712d832648520500f14448&X-Amz-SignedHeaders=host">
 
 - Determine if the issue started after a particular update or change in settings.
 - Establish a remote desktop connection to further diagnose the problem
@@ -301,7 +301,7 @@
 - Change the email settings from POP3 to IMAP on both his smartphone and tablet.
 - Ensure that Amos's laptop is also configured to use IMAP for his email account, ensuring consistency across all devices.
 
-![pop_imap](https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/e1d1db7e-2804-43f2-8cb2-ca30e652c6d7)
+![pop_imap](https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305572657-e1d1db7e-2804-43f2-8cb2-ca30e652c6d7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161236Z&X-Amz-Expires=300&X-Amz-Signature=bd99fb4b78959ee8ec4b7a70468663eddb12f97f18eea9df39275028a169f7f2&X-Amz-SignedHeaders=host)
 
 
 <p><strong>Test email synchronization by instructing Amos  to send a test email to himself and check if it appears across all his devices.</strong></p>
@@ -315,7 +315,7 @@
 - Document all steps taken to resolve Amos's email synchronization issue within osTicket, including the initial problem identification, communication logs, and the resolution process.
 - Close the ticket within osTicket once Amos confirms the issue is resolved to his satisfaction, ensuring a record of the solution is available for future reference.
 
-<img width="589" alt="Amos3" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/5990ad12-8de9-4cdd-811d-3594185700fb">
+<img width="589" alt="Amos3" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305572467-5990ad12-8de9-4cdd-811d-3594185700fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161342Z&X-Amz-Expires=300&X-Amz-Signature=df42a07e01c62768d429b4246493184be3c024134488f39427f129fc88538d02&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
@@ -334,7 +334,7 @@
 
 <br>
 
-<img width="589" alt="Anderson ticket1" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/11854ae6-f5b5-4fe1-a4be-29cf945b5fbe">
+<img width="589" alt="Anderson ticket1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305573121-11854ae6-f5b5-4fe1-a4be-29cf945b5fbe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161408Z&X-Amz-Expires=300&X-Amz-Signature=f3ed4425b64511cd059981a53ae7696df7669415363ebebc708b82c08b646008&X-Amz-SignedHeaders=host">
 
 
 
@@ -349,7 +349,7 @@
 - Communicate with Anderson and ask further questions about the problem
 - Establish a remote desktop connection to Anderson’s workstation to further diagnose the issue.
 
-<img width="588" alt="anderson 2" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/ab69d01e-3d70-456e-982d-428b2edd182d">
+<img width="588" alt="anderson 2" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305573177-ab69d01e-3d70-456e-982d-428b2edd182d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161425Z&X-Amz-Expires=300&X-Amz-Signature=d6e3c20f7a5566709be4e5fbe3555a589a9ecf1dc0d481be96688e48c6ec488b&X-Amz-SignedHeaders=host">
 
 
 <h3> Specific Problem Identified:</h3>
@@ -365,7 +365,7 @@
 - Update Printer IP Address on Anderson's Laptop
 - This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address. This can be done by accessing the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address.
 
-<img width="400" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/4dbe262a-bd46-4b65-aa6f-6ec1c563fec4">
+<img width="400" alt="printer" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305573300-4dbe262a-bd46-4b65-aa6f-6ec1c563fec4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161518Z&X-Amz-Expires=300&X-Amz-Signature=61babae9176a99d89824c7b09aa2fb29017e03fff1838013088461bf5021f158&X-Amz-SignedHeaders=host">
 
 
 <p><strong>Verify connectivity by attempting to print a test page.</strong></p>
@@ -379,7 +379,7 @@
 - Document the steps taken to resolve the issue within osTicket Additionally, update any internal IT documentation to reflect the new network configuration and troubleshooting steps for related issues.
 - Close the ticket once Anderson confirms the issue is resolved. 
 
-<img width="590" alt="printer" src="https://github.com/kirkgacias/osticket-ticket-resolution/assets/158519921/7ee5a170-7cb1-49a3-ba9f-a896f3a58838">
+<img width="590" alt="printer" src="https://github-production-user-asset-6210df.s3.amazonaws.com/158519921/305573527-7ee5a170-7cb1-49a3-ba9f-a896f3a58838.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241217T161535Z&X-Amz-Expires=300&X-Amz-Signature=8c391d1173c37f36e9ad55676c600eb0956a846122443ebeaee7615f870f700b&X-Amz-SignedHeaders=host">
 
 
 <p><strong>.</strong></p>
